@@ -1,4 +1,4 @@
 .env
 .DS_Store
-/raw_data
-/processed_data
+foil_data/raw_data
+foil_data/processed_data
