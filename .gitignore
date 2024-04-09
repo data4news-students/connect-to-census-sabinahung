@@ -1,3 +1,4 @@
 .env
 .DS_Store
 /raw_data
+/processed_data
