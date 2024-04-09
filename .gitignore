@@ -2,3 +2,4 @@
 .DS_Store
 foil_data/raw_data
 foil_data/processed_data
+geocode_cache
